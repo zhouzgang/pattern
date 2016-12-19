@@ -1,0 +1,15 @@
+package com.creative;
+
+import org.junit.Test;
+
+/**
+ * Created by arron on 2016/12/19.
+ */
+public class TestCreativePattern {
+
+    @Test
+    public void testSingleton(){
+        ExerciseSingleton exerciseSingleton = new ExerciseSingleton();
+        exerciseSingleton.execute();
+    }
+}
