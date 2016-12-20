@@ -12,4 +12,10 @@ public class TestCreativePattern {
         ExerciseSingleton exerciseSingleton = new ExerciseSingleton();
         exerciseSingleton.execute();
     }
+
+    @Test
+    public void testConstructor() {
+        ExeciseConstructor execiseConstructor = new ExeciseConstructor();
+        execiseConstructor.execute();
+    }
 }
