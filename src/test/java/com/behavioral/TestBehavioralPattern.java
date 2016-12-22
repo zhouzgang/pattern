@@ -1,7 +1,5 @@
 package com.behavioral;
 
-import com.behavioral.strategy.ExerciseStrategy;
-
 import org.junit.Test;
 
 /**
