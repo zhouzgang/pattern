@@ -1,4 +1,4 @@
-package com.creative;
+package com.structure;
 
 /**
  * Created by zhouzg on 2016/12/21.
