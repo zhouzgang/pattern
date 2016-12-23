@@ -1,4 +1,4 @@
-package com.behavioral.strategy;
+package com.behavioral;
 
 /**
  * Created by zhouzg on 2016/12/17.
