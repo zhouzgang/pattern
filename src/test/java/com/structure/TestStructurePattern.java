@@ -12,11 +12,12 @@ import org.junit.Test;
 public class TestStructurePattern {
 
     @Test
-<<<<<<< HEAD
     public void testAdaptor() {
         ExeciseAdaptor execiseAdaptor = new ExeciseAdaptor();
         execiseAdaptor.execute();
-=======
+    }
+
+    @Test
     public void testStaticProxy(){
         new ExeciseStaticProxy().execute();
     }
@@ -24,6 +25,11 @@ public class TestStructurePattern {
     @Test
     public void testDynamicProxy() {
         new ExeciseDynamicProxy().execute();
->>>>>>> bbe284b7a8a0bfd6a78ad7eeb1054d0d28bda750
     }
+
+    @Test
+    public void testFacade() {
+        new ExeciseFacade().run();
+    }
+
 }
