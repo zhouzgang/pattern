@@ -6,7 +6,7 @@ import java.lang.reflect.Proxy;
 
 /**
  * Created by zhouzg on 2016/12/22.
- * <h3>java 的动态代理</h3>
+ * java 的动态代理
  * 使用java提供的接口生成代理对象，具体还需要了解生成代理的实际原理
  */
 public class ExeciseDynamicProxy {

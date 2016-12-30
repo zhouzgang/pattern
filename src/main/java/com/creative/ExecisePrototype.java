@@ -5,7 +5,7 @@ import java.util.Date;
 
 /**
  * Created by zhouzg on 2016/12/23.
- * <h3>原型模式</h3>
+ * 原型模式
  * 拷贝对象
  */
 public class ExecisePrototype {

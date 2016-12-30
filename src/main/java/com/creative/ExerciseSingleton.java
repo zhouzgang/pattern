@@ -2,7 +2,7 @@ package com.creative;
 
 /**
  * Created by arron on 2016/12/19.
- * <h3>单例模式</h3>
+ * 单例模式
  * 实践过程中返现有些自己还不会的基础知识点，如static, final的性质，线程安全，序列化
  * 这些都是要在下一步遍历《thinking in java》时要着重留意的
  * <li>饿汉式</li>

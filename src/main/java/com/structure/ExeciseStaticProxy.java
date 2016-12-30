@@ -2,7 +2,7 @@ package com.structure;
 
 /**
  * Created by zhouzg on 2016/12/22.
- * <h3>静态代理</h3>
+ * 静态代理
  * 为另外一个对象提供一个代理对象以控制对这个对象的访问
  *
  */
